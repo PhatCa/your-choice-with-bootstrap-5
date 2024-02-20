@@ -1,0 +1,28 @@
+#navbar-icon{
+  width: 80px;
+  height: auto;
+}
+#sale-nav-bar{
+  color: #C9192E;
+}
+#white-background {
+  background-color: white !important;
+}
+#order-status-nav{
+  width:100%;
+}
+.main-image{
+  width: 100%;
+}
+.main-h1{
+  font-size:60px;
+}
+.main-page{
+  padding-left:10px;
+}
+.shop-button{
+  background-color:black !important;
+}
+.footer a{
+  text-decoration:none !important;
+}
